@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jhere.io.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "1.84%",
-    "uptimeDay": "1.84%",
-    "uptimeWeek": "1.84%",
-    "uptimeMonth": "1.84%",
-    "uptimeYear": "1.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 64,
     "timeWeek": 64,
     "timeMonth": 64,
     "timeYear": 64,
-    "dailyMinutesDown": {
-      "2023-04-19": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OpenCTI",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/opencti.jhere.tech.ico",
     "slug": "open-cti",
     "status": "up",
-    "uptime": "0.98%",
-    "uptimeDay": "0.98%",
-    "uptimeWeek": "0.98%",
-    "uptimeMonth": "0.98%",
-    "uptimeYear": "0.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 51,
     "timeDay": 51,
     "timeWeek": 51,
     "timeMonth": 51,
     "timeYear": 51,
-    "dailyMinutesDown": {
-      "2023-04-19": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
