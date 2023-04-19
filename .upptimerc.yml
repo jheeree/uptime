@@ -5,8 +5,12 @@ repo: uptime
 sites:
   - name: Blog
     url: https://jhere.io
+    expectedStatusCodes:
+      - 403
   - name: OpenCTI
     url: https://opencti.jhere.tech
+    expectedStatusCodes:
+      - 403
 
 status-website:
   theme: night
