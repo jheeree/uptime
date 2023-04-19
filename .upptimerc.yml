@@ -20,8 +20,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 i18n:
   activeIncidents: Incidentes activos
@@ -39,3 +37,4 @@ i18n:
   durationMin: $DURATION minutos
   incidentCompleted: Completado
   incidentScheduled: Programado
+  footer: Este sitio es [open source]($REPO), gracias a [Upptime](https://upptime.js.org)
