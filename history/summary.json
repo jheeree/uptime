@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 100,
     "timeDay": 88,
-    "timeWeek": 110,
-    "timeMonth": 102,
+    "timeWeek": 107,
+    "timeMonth": 101,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 95,
-    "timeWeek": 74,
-    "timeMonth": 69,
+    "timeDay": 100,
+    "timeWeek": 78,
+    "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test sitio caído",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-sitio-caido",
+    "status": "down",
+    "uptime": "14.92%",
+    "uptimeDay": "14.92%",
+    "uptimeWeek": "14.92%",
+    "uptimeMonth": "14.92%",
+    "uptimeYear": "14.92%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-14": 0
+    }
   }
 ]
