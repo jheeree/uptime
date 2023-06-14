@@ -11,6 +11,8 @@ sites:
     url: https://opencti.jhere.tech
     expectedStatusCodes:
       - 403
+   - name: Test sitio caído
+     url: https://thissitedoesnotexist.koj.co
 
 status-website:
   theme: night
