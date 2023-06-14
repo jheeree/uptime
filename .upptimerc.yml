@@ -12,7 +12,7 @@ sites:
     expectedStatusCodes:
       - 403
   - name: Test sitio SECRET
-    url: $SECRET_SITE
+    url: $SECRET_SITE 
 
 status-website:
   theme: night
