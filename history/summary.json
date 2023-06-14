@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-sitio-secret",
     "status": "up",
-    "uptime": "2.81%",
-    "uptimeDay": "2.81%",
-    "uptimeWeek": "2.81%",
-    "uptimeMonth": "2.81%",
-    "uptimeYear": "2.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 211,
     "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2023-06-14": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
