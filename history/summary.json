@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 68,
-    "timeWeek": 102,
-    "timeMonth": 110,
+    "timeDay": 111,
+    "timeWeek": 108,
+    "timeMonth": 112,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/opencti.jhere.tech.ico",
     "slug": "open-cti",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 73,
-    "timeDay": 100,
-    "timeWeek": 76,
-    "timeMonth": 78,
-    "timeYear": 73,
-    "dailyMinutesDown": {
-      "2023-07-09": 16
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 82,
+    "timeDay": 377,
+    "timeWeek": 168,
+    "timeMonth": 102,
+    "timeYear": 82,
+    "dailyMinutesDown": {}
   }
 ]
