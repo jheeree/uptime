@@ -22,17 +22,19 @@
     "url": "https://opencti.jhere.tech",
     "icon": "https://icons.duckduckgo.com/ip3/opencti.jhere.tech.ico",
     "slug": "open-cti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 60,
-    "timeWeek": 119,
-    "timeMonth": 98,
-    "timeYear": 87,
-    "dailyMinutesDown": {}
+    "time": 91,
+    "timeDay": 356,
+    "timeWeek": 172,
+    "timeMonth": 114,
+    "timeYear": 91,
+    "dailyMinutesDown": {
+      "2023-09-02": 0
+    }
   }
 ]
