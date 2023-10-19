@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 90,
-    "timeWeek": 87,
-    "timeMonth": 118,
+    "timeDay": 219,
+    "timeWeek": 113,
+    "timeMonth": 123,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,15 @@
     "slug": "open-cti",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 214,
-    "timeWeek": 123,
-    "timeMonth": 136,
-    "timeYear": 107,
-    "dailyMinutesDown": {
-      "2023-10-18": 10
-    }
+    "time": 106,
+    "timeDay": 203,
+    "timeWeek": 126,
+    "timeMonth": 135,
+    "timeYear": 106,
+    "dailyMinutesDown": {}
   }
 ]
