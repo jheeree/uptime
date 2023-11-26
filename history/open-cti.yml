@@ -1,7 +1,7 @@
 url: https://opencti.jhere.tech
-status: down
-code: 200
-responseTime: 302
-lastUpdated: 2023-11-26T21:07:37.491Z
+status: up
+code: 403
+responseTime: 56
+lastUpdated: 2023-11-26T21:17:26.007Z
 startTime: 2023-04-19T16:35:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
