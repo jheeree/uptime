@@ -4,7 +4,7 @@ repo: uptime
 
 sites:
   - name: Blog
-    url: https://jhere.io
+    url: https://jhere.tech
     expectedStatusCodes:
       - 403
   - name: OpenCTI
@@ -14,7 +14,7 @@ sites:
 
 status-website:
   theme: night
-  cname: status.jhere.io
+  cname: status.jhere.tech
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   navbar:
