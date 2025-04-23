@@ -11,28 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 100,
-    "timeWeek": 111,
+    "timeDay": 95,
+    "timeWeek": 108,
     "timeMonth": 93,
     "timeYear": 145,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "OpenCTI",
-    "url": "https://opencti.jhere.tech",
-    "icon": "https://icons.duckduckgo.com/ip3/opencti.jhere.tech.ico",
-    "slug": "open-cti",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 90,
-    "timeWeek": 108,
-    "timeMonth": 100,
-    "timeYear": 88,
     "dailyMinutesDown": {}
   }
 ]
