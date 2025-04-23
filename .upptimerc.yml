@@ -7,10 +7,10 @@ sites:
     url: https://jhere.tech
     expectedStatusCodes:
       - 403
-  - name: OpenCTI
-    url: https://opencti.jhere.tech
-    expectedStatusCodes:
-      - 403
+#  - name: OpenCTI
+#    url: https://opencti.jhere.tech
+#    expectedStatusCodes:
+#      - 403
 
 status-website:
   theme: night
