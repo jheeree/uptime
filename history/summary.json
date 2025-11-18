@@ -4,19 +4,17 @@
     "url": "https://jhere.tech",
     "icon": "https://icons.duckduckgo.com/ip3/jhere.tech.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 88,
-    "timeWeek": 141,
+    "time": 134,
+    "timeDay": 99,
+    "timeWeek": 140,
     "timeMonth": 129,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2025-11-18": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
