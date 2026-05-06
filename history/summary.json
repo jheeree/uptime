@@ -4,18 +4,19 @@
     "url": "https://jhere.tech",
     "icon": "https://icons.duckduckgo.com/ip3/jhere.tech.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 97,
-    "timeWeek": 87,
-    "timeMonth": 94,
-    "timeYear": 117,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 93,
+    "timeYear": 116,
     "dailyMinutesDown": {
+      "2026-05-06": 0,
       "2025-11-18": 22
     }
   }
